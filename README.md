@@ -1,2 +1,2 @@
 # Data-Structures-in-"C#"-
-![Example](1.jpg)
+![Example](1.JPG)
