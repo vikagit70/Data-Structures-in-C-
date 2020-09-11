@@ -1,2 +1,2 @@
-# Data-Structures-in-"C#"-
+# Data-Structures-in-"C#"- Stack and Queue 
 ![Example](1.JPG)
